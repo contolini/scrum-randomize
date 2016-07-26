@@ -11,6 +11,7 @@ var teams = {
       'Jerry',
       'Christie',
       'Risa',
+      'Natalia'
     ]
 }
     today = new Date();
