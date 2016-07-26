@@ -3,7 +3,7 @@ var teams = {
       'Jess',
       'Ross',
       'Will',
-      'Chris',
+      'Contolini',
       'Virginia',
       'Steven',
       'Richa',
